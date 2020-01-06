@@ -1,5 +1,9 @@
 # 初学者
-[初学者网站](https://chuxuezhe.xyz/)-吾生也有涯,而知也无涯.
+## 网站地址:[初学者](https://chuxuezhe.xyz/)-吾生也有涯,而知也无涯.
+## 网站地址:[https://chuxuezhe.xyz](https://chuxuezhe.xyz/)-吾生也有涯,而知也无涯.
+## 网站地址:[http://chuxuezhe.xyz](http://chuxuezhe.xyz/)-吾生也有涯,而知也无涯.
+## 网站地址:[chuxuezhe.xyz](http://chuxuezhe.xyz/)-吾生也有涯,而知也无涯.
+## 中文域名地址:[初学者.中国](http://初学者.中国/)-吾生也有涯,而知也无涯.
 
 关键字:[初学者](https://chuxuezhe.xyz/),初学者博客,初学者网站,编程技术,原创博客,写作,阅读
 
